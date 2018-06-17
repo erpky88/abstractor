@@ -1,0 +1,2 @@
+# abstractor
+abstract java file
